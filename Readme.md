@@ -17,4 +17,4 @@ The canvas is available in Microsoft Word (docx) for Easier to use
 you can see some sample data about an imaginary service (sample-service). remove them, and enter your microservice information
 
 
-<img src="https://github.com/msavarian/microservice-canvas/microservice-canvas.jpg" />
+<img src="https://github.com/msavarian/microservice-canvas/blob/master/microservice-canvas.jpg?raw=true" width="100%" />
