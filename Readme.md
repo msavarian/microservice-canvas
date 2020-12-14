@@ -9,6 +9,8 @@ The microservice canvas is a very convenient way to document a (micro)service. T
 > [یک سرویس (میکروسرویس) چیست؟ و چگونه آن را مستند کنیم؟ (قسمت اول)
 ](https://www.dotnettips.info/post/3274/%db%8c%da%a9-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d9%85%db%8c%da%a9%d8%b1%d9%88%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%da%86%db%8c%d8%b3%d8%aa-%d9%88-%da%86%da%af%d9%88%d9%86%d9%87-%d8%a2%d9%86-%d8%b1%d8%a7-%d9%85%d8%b3%d8%aa%d9%86%d8%af-%da%a9%d9%86%db%8c%d9%85-%d9%82%d8%b3%d9%85%d8%aa-%d8%a7%d9%88%d9%84)
 
+>[یک سرویس (میکروسرویس) چیست؟ و چگونه آن را مستند کنیم؟ (قسمت دوم)](https://www.dotnettips.info/post/3275/%db%8c%da%a9-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d9%85%db%8c%da%a9%d8%b1%d9%88%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%da%86%db%8c%d8%b3%d8%aa-%d9%88-%da%86%da%af%d9%88%d9%86%d9%87-%d8%a2%d9%86-%d8%b1%d8%a7-%d9%85%d8%b3%d8%aa%d9%86%d8%af-%da%a9%d9%86%db%8c%d9%85-%d9%82%d8%b3%d9%85%d8%aa-%d8%af%d9%88%d9%85)
+
 
 ## Formats
 The canvas is available in Microsoft Word (docx) for Easier to use
